@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @EmoCookie
+- 👀 I’m interested in coding and photogrpahy.
+- 🌱 I’m currently learning all things related to software engineering.
+- 💞️ I’m looking to collaborate on.. well.. not at the moment though.
+- 📫 Feel free to check out my commits!
