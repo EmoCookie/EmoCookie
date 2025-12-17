@@ -8,10 +8,10 @@
 <hr>
 
 🛠️ Tech & Tools I Work With
-- <b>Design</b>: Figma, Wireframing, Prototyping, Visual Design 🎨
+- <b>Design</b>: Figma, Adobe, Wireframing, Prototyping, Visual Design 🎨
 - <b>Frontend</b>: HTML, CSS, JavaScript ⚡
 - <b>Programming</b>: Python, Java, .NET
-- <b>Tools</b>: Git, GitHub, VS Code, Webflow, WordPress
+- <b>Tools</b>: Git, GitHub, VS Code, Webflow, WordPress, Framer
 
 <hr>
 
